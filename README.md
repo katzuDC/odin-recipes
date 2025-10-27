@@ -1,2 +1,2 @@
 # odin-recipes
-Testing first commit for repo
+This is for the odin project recipes course
